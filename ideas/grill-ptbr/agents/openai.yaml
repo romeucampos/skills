@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill PT-BR"
+  short_description: "Teste e aprimore um plano com perguntas em rodadas"
+policy:
+  allow_implicit_invocation: false
